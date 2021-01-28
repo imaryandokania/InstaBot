@@ -1,5 +1,7 @@
 # Insta Bot
 
+<img src="https://www.selenium.dev/images/selenium_logo_large.png" width="160" height="80" />
+
 Hi! This is a bot that saves your credentials and just by a single click fills the instagram website with your credentials,logs you in and then like the first picture visible.
 
 
